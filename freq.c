@@ -1,5 +1,5 @@
 /*****************************************************************************
- * Frequency meter for HP 16700 series logic analyzers.
+ * Frequency meter for Agilent HP 16700 series logic analyzers.
  * Andrei A. Semenov <rtr989@gmail.com>
  *
  * See the LICENSE file accompying this source file for copyright and
