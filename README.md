@@ -1,1 +1,1 @@
-# HP-16700-Frequency
+# HP Agilent 16700 Frequency meter
