@@ -139,7 +139,7 @@ void execute(TDKDataGroup &dg, TDKBaseIO &io) {
       }
     }
 
-    if (periodCounter >= cnt / 15) {
+    if (periodCounter >= cnt / 4) {
 
       for (int c = 0; c < 10; c++) {
         if (periodTimes[i] == finalTimes[c]) {
